@@ -72,8 +72,8 @@ Part of a Master's thesis in privacy-preserving VR analytics
 🎓 Full thesis demo: [https://youtu.be/FNfVxRWXWUY](https://youtu.be/FNfVxRWXWUY)
 
 If you use this work in academic or applied settings, please cite:
-Guthula, J. S. N. (2025). Secure frameworks for user motion data in virtual reality (Order No. 32038728). Available from Dissertations & Theses @ University of Arkansas at Little Rock; ProQuest Central. (3233907256).
-[Access via ProQuest](https://go.openathens.net/redirector/ualr.edu?url=https://www.proquest.com/dissertations-theses/secure-frameworks-user-motion-data-virtual/docview/3233907256/se-2)
+Guthula, J. S. N. (2025). Secure frameworks for user motion data in virtual reality. Available from Dissertations & Theses @ University of Arkansas at Little Rock; ProQuest Central.
+[Access via ProQuest]([https://go.openathens.net/redirector/ualr.edu?url=https://www.proquest.com/dissertations-theses/secure-frameworks-user-motion-data-virtual/docview/3233907256/se-2](https://www.proquest.com/docview/3233907256?%20Theses&sourcetype=Dissertations%20))
 
 ---
 
